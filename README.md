@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ushpal">
-    <img src="https://media1.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47qc1housmrw7tckdix9r1x2qhk60b96w9l72wclp8&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://www.google.com/search?q=Banner+gif+image+of+Hacker&sca_esv=592538007&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjNnpaHqp6DAxXfVmwGHWj3ANkQ_AUoAXoECAEQAw&biw=1536&bih=750&dpr=1.25)" alt="MasterHead">
+    <img src="https://media3.giphy.com/media/VDB85YZsrqMXx3c7DE/giphy.gif?cid=ecf05e47jnmd1kqyx7vchlm7lmk6zz7w4wg6qxumxxw694um&ep=v1_gifs_related&rid=giphy.gif&ct=g">
   </a>
 </p>
 

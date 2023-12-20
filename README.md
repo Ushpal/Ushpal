@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **WebDev, Networking**
 
-- 📫 How to reach me **ushpal.phuyel73@gmail.com**
+- 📫 How to reach me: **ushpal.phuyel73@gmail.com**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

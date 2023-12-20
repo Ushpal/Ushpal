@@ -1,8 +1,7 @@
-<p align=”center”>
 
-<img width=”200" height=”200" src=”[https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png](https://media3.giphy.com/media/xTiTnx37nc3vjsdeLK/giphy.gif?cid=ecf05e47kee9iz1mph9t5qtgknmdjbiuw95l4zsy572s4kup&ep=v1_gifs_related&rid=giphy.gif&ct=g)" alt=”bits_Flow”>
 
-</p>
+<img  align="center" width=”200" height=”200" src=”[https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png](https://media3.giphy.com/media/xTiTnx37nc3vjsdeLK/giphy.gif?cid=ecf05e47kee9iz1mph9t5qtgknmdjbiuw95l4zsy572s4kup&ep=v1_gifs_related&rid=giphy.gif&ct=g)" alt=”bits_Flow”>
+
 
 <h1 align="center">Hi 👋, I'm Ushpal_Phuyel</h1>
 <h3 align="center">A passionate Software developer.</h3>

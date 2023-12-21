@@ -5,12 +5,6 @@
 <h3 align="center">Tech_Enthusiast</h3>
 <br>
 <br>
-<br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ushpal&label=Profile%20views&color=0e75b6&style=flat" alt="ushpal" /> </p>
-
-
-<br>
 
 - 🌱 I’m currently learning **WebDev, Networking**
 

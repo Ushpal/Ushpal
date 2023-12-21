@@ -1,11 +1,7 @@
-<p align="center">
-  <a href="https://github.com/ushpal">
-    <img src="https://media3.giphy.com/media/VDB85YZsrqMXx3c7DE/giphy.gif?cid=ecf05e47jnmd1kqyx7vchlm7lmk6zz7w4wg6qxumxxw694um&ep=v1_gifs_related&rid=giphy.gif&ct=g">
-  </a>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Ushpal_Phuyel</h1>
-<h3 align="center">A passionate Software Dev.</h3>
+<h3 align="center">A passionate Developer.</h3>
 <h3 align="center">Tech_Enthusiast</h3>
 <br>
 <br>

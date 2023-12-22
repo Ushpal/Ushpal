@@ -1,4 +1,5 @@
-https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif
+![image](https://github.com/Ushpal/Ushpal/assets/86186438/5d9ca165-ffc2-4ce5-b724-a86942eda9e9)
+
 
 <h1 align="center">Hi 👋, I'm Ushpal_Phuyel</h1>
 <h3 align="center">A passionate Developer.</h3>

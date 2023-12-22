@@ -1,4 +1,3 @@
-![image](https://github.com/Ushpal/Ushpal/assets/86186438/5d9ca165-ffc2-4ce5-b724-a86942eda9e9)
 
 
 <h1 align="center">Hi 👋, I'm Ushpal_Phuyel</h1>

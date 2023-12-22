@@ -1,4 +1,4 @@
-
+https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif
 
 <h1 align="center">Hi 👋, I'm Ushpal_Phuyel</h1>
 <h3 align="center">A passionate Developer.</h3>

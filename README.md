@@ -1,7 +1,7 @@
 
 ![LINUX](https://miro.medium.com/v2/resize:fit:828/format:webp/0*932R80V7wmI-BNRV.gif)
 <h1 align="center">Hi 👋, I'm Ushpal_Phuyel</h1>
-<h3 align="center">A passionate Developer.</h3>
+<h3 align="center">A passionate Developer, CyberSecurity Enthusiast.</h3>
 <h3 align="center">Tech_Enthusiast</h3>
 
 

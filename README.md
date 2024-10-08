@@ -2,7 +2,7 @@
 ![LINUX](https://miro.medium.com/v2/resize:fit:828/format:webp/0*932R80V7wmI-BNRV.gif)
 <h1 align="center">Hi 👋, I'm Ushpal_Phuyel</h1>
 <h2 align="center">Tech_Enthusiast</h2>
-<h3 align="center">A passionate Developer & Network Security Engineer.</h3>
+<h3 align="center">A passionate Programmer & Network Security Engineer.</h3>
 
 
 
